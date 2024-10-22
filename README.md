@@ -9,7 +9,7 @@ AESPA can be used as a typical text editor. It means that AESPA supports many fu
 If you open and load a SPACE input file without a syntax error, AESPA detects SPACE components automatically. And they are displayed in the component tree. Users can navigate the input by selecting a tree item.
 
 ## Automatic generation of various diagram
-![alt text](https://drive.google.com/file/d/1ietRyWYUhTchUwT8G4my96wC_6G7A4CR/view?usp=sharing)
+![alt text](BRCH_node_diagram.PNG)
 
 # Releases
 + Download [ Version 1.0.0 ](https://drive.google.com/file/d/1h2RvJOmhqxlrBqqUk1k9eLe5QBNOqjJd/view?usp=sharing)
