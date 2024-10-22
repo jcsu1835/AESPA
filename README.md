@@ -13,6 +13,10 @@ AESPA can generate the various component diagram such as BRCH, CELL, PIPE, FACE,
 
 ![alt text](BRCH_node_diagram.PNG)
 
+The following image shows the TRIP diagram and connected components. TRIP diagram always shows the whole map containing the user-select node. The green color node is the node that user selects by mouse. 
+
+![alt text](images/TRIP_diagram.PNG)
+
 # Releases
 + Download [ Version 1.0.0 ](https://drive.google.com/file/d/1h2RvJOmhqxlrBqqUk1k9eLe5QBNOqjJd/view?usp=sharing)
 + Version 2.0.0 is under construction.
