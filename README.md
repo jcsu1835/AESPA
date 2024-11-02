@@ -18,7 +18,7 @@ The following image shows the TRIP diagram and connected components. TRIP diagra
 ![alt text](images/TRIP_diagram.PNG)
 
 # Releases
-+ Download [ Version 1.0.0 ](https://drive.google.com/file/d/1Rt_rMqpUtkScqccwkQXaX7Sc8qnSlHHx/view?usp=sharing)
++ Date Released 2024. 11. 02 Download [ Version 1.0.0 ](https://drive.google.com/file/d/1Rt_rMqpUtkScqccwkQXaX7Sc8qnSlHHx/view?usp=sharing)
 + Version 2.0.0 is under construction.
 
 # User's Manual
