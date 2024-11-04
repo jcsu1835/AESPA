@@ -18,7 +18,7 @@ The following image shows the TRIP diagram and connected components. TRIP diagra
 ![alt text](images/TRIP_diagram.PNG)
 
 # Releases
-+ Date Released 2024. 11. 04 Download [ Version 1.0.1 ](https://drive.google.com/file/d/14dhaJ3CYqv3DsO04xT55cL6alWv3tWO2/view?usp=sharing)
++ Date Released 2024. 11. 04 Download [ Version 1.0.1 ](https://drive.google.com/file/d/19GCWhnRo_XfSIQgJhrXcakl14GQaseLp/view?usp=sharing)
   + Batch job function added
 + Date Released 2024. 11. 02 Download [ Version 1.0.0 ](https://drive.google.com/file/d/1Rt_rMqpUtkScqccwkQXaX7Sc8qnSlHHx/view?usp=sharing)
 + Version 2.0.0 is under construction.
