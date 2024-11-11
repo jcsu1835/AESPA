@@ -18,6 +18,9 @@ The following image shows the TRIP diagram and connected components. TRIP diagra
 ![alt text](images/TRIP_diagram.PNG)
 
 # Releases
++ Date Released 2024. 11. 05 Download [ Version 1.0.2 ](https://drive.google.com/file/d/1DubzX8gTwICGdiLBE2SXdiEpHqJVotAY/view?usp=sharing)
+  + Heat structure node diagram
+  + Adding a plot varialbe input on the node diagram
 + Date Released 2024. 11. 05 Download [ Version 1.0.1 ](https://drive.google.com/file/d/1pTk2VpUOksSNifmW_nVthZHaK9Pe9U16/view?usp=sharing)
   + Batch job function added
 + Date Released 2024. 11. 02 Download [ Version 1.0.0 ](https://drive.google.com/file/d/1Rt_rMqpUtkScqccwkQXaX7Sc8qnSlHHx/view?usp=sharing)
