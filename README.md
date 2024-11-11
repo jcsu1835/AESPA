@@ -17,6 +17,12 @@ The following image shows the TRIP diagram and connected components. TRIP diagra
 
 ![alt text](images/TRIP_diagram.PNG)
 
+## Heat structure node diamgram and adding a plot variable
+The following image shows the heat structure diagram. You can add a plot variable to your input file directly on it by double clicks or drag-and-drop.
+
+![alt text](images/HTST_diagram.PNG)
+
+
 # Releases
 + Date Released 2024. 11. 05 Download [ Version 1.0.2 ](https://drive.google.com/file/d/1DubzX8gTwICGdiLBE2SXdiEpHqJVotAY/view?usp=sharing)
   + Heat structure node diagram
