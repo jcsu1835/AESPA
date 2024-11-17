@@ -12,6 +12,7 @@ If you open and load a SPACE input file without a syntax error, AESPA detects SP
 AESPA can generate the various component diagram such as BRCH, CELL, PIPE, FACE, MFACE, TFBC, PUMP, VALV, SEPR, HSTS, PLOT, TABL, TRIP, CTRL, etc. The following image shows the diagram of C260 BRCH and connected components. You can navigate the corresponding input line by clicking a node you want to know the detail input values.
 
 ![alt text](images/BRCH_node_diagram.PNG)
+![alt text](images/BRCH_node_diagram.PNG)
 
 The following image shows the TRIP diagram and connected components. TRIP diagram always shows the whole map containing the user-select node. The green color node is the node that user selects by mouse.
 
