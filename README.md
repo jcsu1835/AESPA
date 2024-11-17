@@ -24,7 +24,7 @@ The following image shows the heat structure diagram. You can add a plot variabl
 
 
 # Releases
-+ Date Released 2024. 11. 16 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1s3Z0IS5he6VwCrqWsdTra2Gs6OrXekPa/view?usp=sharing)
++ Date Released 2024. 11. 17 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1o2yyAYM7ptDk8G--4728jKmvIiQurvwb/view?usp=sharing)
   + Enhanced function to manage plot inputs
   + Function to click the plot hot spot. Click the "PLOT" on the PLOT-XX-YYY.
   + Fixed number of bugs and errors
