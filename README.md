@@ -22,7 +22,6 @@ The following image shows the heat structure diagram. You can add a plot variabl
 
 ![alt text](images/HTST_diagram.PNG)
 
-
 # Releases
 + Date Released 2024. 11. 17 Download [ Version 1.0.3 ](https://drive.google.com/file/d/14GyNLbkKfS6IMIQPJdXU7W4nO1RC_Kw_/view?usp=sharing)
   + Enhanced function to manage plot inputs
