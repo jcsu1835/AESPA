@@ -20,8 +20,7 @@ The following image shows the TRIP diagram and connected components. TRIP diagra
 ## Heat structure node diamgram and adding a plot variable
 The following image shows the heat structure diagram. You can add a plot variable to your input file directly on it by double clicks or drag-and-drop.
 
-![alt text](images/HTST_diagram.PNG)
-(https://github.com/jcsu1835/AESPA/blob/36fd089508c85ce77c41dfae3bf332cc89e7c5d6/images/HTST_diagram.PNG)
+![alt text](https://github.com/jcsu1835/AESPA/blob/36fd089508c85ce77c41dfae3bf332cc89e7c5d6/images/HTST_diagram.PNG)
 
 # Releases
 + Date Released 2024. 11. 17 Download [ Version 1.0.3 ](https://drive.google.com/file/d/14GyNLbkKfS6IMIQPJdXU7W4nO1RC_Kw_/view?usp=sharing)
