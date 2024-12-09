@@ -23,7 +23,7 @@ The following image shows the heat structure diagram. You can add a plot variabl
 ![alt text](https://github.com/jcsu1835/AESPA/blob/36fd089508c85ce77c41dfae3bf332cc89e7c5d6/images/HTST_diagram.PNG)
 
 # Releases
-+ Date Released 2024. 12. 08 Download [ Version 1.0.3 ](https://drive.google.com/file/d/10CeQBn2mJTqISCxyIG2vpqdD_6aaI4UZ/view?usp=sharing)
++ Date Released 2024. 12. 08 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1hfxh3fd8ncV6bVlcpla14jwrcRwFQhkN/view?usp=sharing)
   + Enhanced function to manage plot inputs
   + Function to click the plot hot spot. Click the "PLOT" on the PLOT-XX-YYY
   + Fixed number of bugs and errors
