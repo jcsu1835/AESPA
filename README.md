@@ -26,6 +26,7 @@ The following image shows the heat structure diagram. You can add a plot variabl
 SPACE inputs can be overriden multiple times. When it happens, it will make the users uncomportable. They will be confused which input is a final version.
 To avoid these complains, AESPA provides a function to show and compare overriden inputs. The following image is a example:
 
+![alt text](https://github.com/jcsu1835/AESPA/blob/01d48fd6f7730f32bfe311654ec3c01082a8c3f2/images/overriden_input.PNG)
 
 # Releases
 + Date Released 2025. 2. 05 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1NjgIw7sovhjUZjghKj7hYc5ZUTjHeYoK/view?usp=sharing)
