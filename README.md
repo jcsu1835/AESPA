@@ -22,7 +22,15 @@ The following image shows the heat structure diagram. You can add a plot variabl
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/36fd089508c85ce77c41dfae3bf332cc89e7c5d6/images/HTST_diagram.PNG)
 
+## Showing and comparing overriden inputs
+SPACE inputs can be overriden multiple times. When it happens, it will make the users uncomportable. They will be confused which input is a final version.
+To avoid these complains, AESPA provides a function to show and compare overriden inputs. The following image is a example:
+
+
 # Releases
++ Date Released 2025. 2. 05 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1NjgIw7sovhjUZjghKj7hYc5ZUTjHeYoK/view?usp=sharing)
+  + Fix a few bugs
+  + Showing fancy overriden inputs
 + Date Released 2024. 12. 08 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1zSuLqO688KfUx7qPOYmOAsUkbvmb9wmz/view?usp=sharing)
   + Enhanced function to manage plot inputs
   + Function to click the plot hot spot. Click the "PLOT" on the PLOT-XX-YYY
