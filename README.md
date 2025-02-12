@@ -29,7 +29,7 @@ To avoid these complains, AESPA provides a function to show and compare override
 ![alt text](https://github.com/jcsu1835/AESPA/blob/01d48fd6f7730f32bfe311654ec3c01082a8c3f2/images/overriden_input.PNG)
 
 # Releases
-+ Date Released 2025. 2. 07 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1yJ4d7sI5KpektZ6QfBNDe0bSfeehSvOw/view?usp=sharing)
++ Date Released 2025. 2. 12 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1ozyQaXJnsVoB8tiw5r2zjS7ORn7y2n1P/view?usp=sharing)
   + Fix a few bugs
   + Showing fancy overriden inputs
   + Enhancing plotting GUI
