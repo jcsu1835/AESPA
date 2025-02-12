@@ -33,6 +33,7 @@ To avoid these complains, AESPA provides a function to show and compare override
   + Fix a few bugs
   + Showing fancy overriden inputs
   + Enhancing plotting GUI
+  + Enhancing batch run interface and speed up of calculation
 + Date Released 2024. 12. 08 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1zSuLqO688KfUx7qPOYmOAsUkbvmb9wmz/view?usp=sharing)
   + Enhanced function to manage plot inputs
   + Function to click the plot hot spot. Click the "PLOT" on the PLOT-XX-YYY
