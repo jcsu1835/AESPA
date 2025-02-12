@@ -28,12 +28,21 @@ To avoid these complains, AESPA provides a function to show and compare override
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/01d48fd6f7730f32bfe311654ec3c01082a8c3f2/images/overriden_input.PNG)
 
+## Batch Run
+Typically, SPACE calculations consist of multiple steps. The first step will be a steady-state calculation to produce restart files. The next step will be
+a transient calculation or another steady-state calculation. That is, the calculations are connected each other. AESPA can perform these multiple calculations
+automatically. Users just prepare the right inputs for AESPA in the batch run mode. The following image shows a example:
+
+![alt text](https://github.com/jcsu1835/AESPA/blob/01d48fd6f7730f32bfe311654ec3c01082a8c3f2/images/overriden_input.PNG)
+
+
 # Releases
 + Date Released 2025. 2. 12 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1ozyQaXJnsVoB8tiw5r2zjS7ORn7y2n1P/view?usp=sharing)
   + Fix a few bugs
   + Showing fancy overriden inputs
   + Enhancing plotting GUI
-  + Enhancing batch run interface and speed up of calculation
+  + Enhancing batch run interface
+  + Implementing the multi-processing of SPACE calculations in a batch run mode
 + Date Released 2024. 12. 08 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1zSuLqO688KfUx7qPOYmOAsUkbvmb9wmz/view?usp=sharing)
   + Enhanced function to manage plot inputs
   + Function to click the plot hot spot. Click the "PLOT" on the PLOT-XX-YYY
