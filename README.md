@@ -33,7 +33,7 @@ Typically, SPACE calculations consist of multiple steps. The first step will be 
 a transient calculation or another steady-state calculation. That is, the calculations are connected each other. AESPA can perform these multiple calculations
 automatically. Users just prepare the right inputs for AESPA in the batch run mode. The following image shows a example:
 
-![alt text](https://github.com/jcsu1835/AESPA/blob/c92273d2bcca796cab4b35bdb5d6537df7590554/images/BatchRun.PNG)
+![alt text](https://github.com/jcsu1835/AESPA/blob/4f5a47283099b973693624e7d5e6ab8afdd2e3f9/images/BatchRun1.PNG)
 
 
 # Releases
