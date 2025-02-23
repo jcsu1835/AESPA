@@ -31,7 +31,7 @@ To avoid these complains, AESPA provides a function to show and compare override
 ## Batch Run
 Typically, SPACE calculations consist of multiple steps. The first step will be a steady-state calculation to produce restart files. The next step will be
 a transient calculation or another steady-state calculation. That is, the calculations are connected each other. AESPA can perform these multiple calculations
-automatically. Users just prepare the right inputs for AESPA in the batch run mode. The following image shows a example:
+automatically. Users just prepare the right inputs for AESPA in the batch run mode. While calculating, users can watch the convergences of all variables in the Plot data files in real time. The following image shows a example:
 
 ![alt text](images/batchRunWithConvergenceCheck.png)
 
