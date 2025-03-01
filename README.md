@@ -38,13 +38,14 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 
 # Releases
 
-+ Date Released 2025. 2. 23 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1hRfoLyThfw2nlN_5p278C8KdYTFfoTpg/view?usp=sharing)
++ Date Released 2025. 3. 1 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1Y9ZN_7W3QHxCAUD5Qn6-0i50ZWsrX7XQ/view?usp=sharing)
   + Fix a few bugs
   + Showing fancy overriden inputs
   + Enhancing plotting GUI
   + Enhancing batch run interface
   + Implementing the multi-processing of SPACE calculations in a batch run mode
   + Add convergence checking function in online or offline modes.
+  + Enhancing one case run window to use real-time plots
 + Date Released 2024. 12. 08 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1zSuLqO688KfUx7qPOYmOAsUkbvmb9wmz/view?usp=sharing)
   + Enhanced function to manage plot inputs
   + Function to click the plot hot spot. Click the "PLOT" on the PLOT-XX-YYY
