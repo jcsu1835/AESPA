@@ -28,6 +28,11 @@ To avoid these complains, AESPA provides a function to show and compare override
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/01d48fd6f7730f32bfe311654ec3c01082a8c3f2/images/overriden_input.PNG)
 
+## One Case Run with Real-time plots
+To develop the SPACE basedeck of some problem, users may execute SPACE  many times with same input again and again. For these situations, AESPA supports one case run with real-time plots. The following image shows a example:
+
+![alt text](images/real_time_graph.png)
+
 ## Batch Run
 Typically, SPACE calculations consist of multiple steps. The first step will be a steady-state calculation to produce restart files. The next step will be
 a transient calculation or another steady-state calculation. That is, the calculations are connected each other. AESPA can perform these multiple calculations
