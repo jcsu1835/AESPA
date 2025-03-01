@@ -31,7 +31,7 @@ To avoid these complains, AESPA provides a function to show and compare override
 ## One Case Run with Real-time plots
 To develop the SPACE basedeck of some problem, users may execute SPACE  many times with same input again and again. For these situations, AESPA supports one case run with real-time plots. The following image shows a example:
 
-![alt text](images/real_time_graph.png)
+![alt text](images/real_time_graph.PNG)
 
 ## Batch Run
 Typically, SPACE calculations consist of multiple steps. The first step will be a steady-state calculation to produce restart files. The next step will be
