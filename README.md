@@ -24,19 +24,19 @@ The following image shows the heat structure diagram. You can add a plot variabl
 
 ## Showing and comparing overriden inputs
 SPACE inputs can be overriden multiple times. When it happens, it will make the users uncomportable. They will be confused which input is a final version.
-To avoid these complains, AESPA provides a function to show and compare overriden inputs. The following image is a example:
+To avoid these complains, AESPA provides a function to show and compare overriden inputs. The following image is an example:
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/01d48fd6f7730f32bfe311654ec3c01082a8c3f2/images/overriden_input.PNG)
 
 ## One Case Run with Real-time plots
-To develop the SPACE basedeck of some problem, users may execute SPACE  many times with same input again and again. For these situations, AESPA supports one case run with real-time plots. The following image shows a example:
+To develop the SPACE basedeck of some problem, users may execute SPACE  many times with same input again and again. For these situations, AESPA supports one case run with real-time plots. The following image shows an example:
 
 ![alt text](images/real_time_graph.PNG)
 
 ## Batch Run
 Typically, SPACE calculations consist of multiple steps. The first step will be a steady-state calculation to produce restart files. The next step will be
 a transient calculation or another steady-state calculation. That is, the calculations are connected each other. AESPA can perform these multiple calculations
-automatically. Users just prepare the right inputs for AESPA in the batch run mode. While calculating, users can watch the convergences of all variables in the Plot data files in real time. The following image shows a example:
+automatically. Users just prepare the right inputs for AESPA in the batch run mode. While calculating, users can watch the convergences of all variables in the Plot data files in real time. The following image shows an example:
 
 ![alt text](images/batchRunWithConvergenceCheck.png)
 
