@@ -40,10 +40,9 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 
 ![alt text](images/batchRunWithConvergenceCheck.png)
 
-
 # Releases
 
-+ Date Released 2025. 3. 14 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1PfuR52-97jXb24JBZW2p04KHDWNDX9pM/view?usp=sharing)
++ Date Released 2025. 3. 15 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1-GBOVUxxOGdV1o340jLvQlsFhe-i-Scr/view?usp=sharing)
   + Fix a few bugs
   + Showing fancy overriden inputs
   + Enhancing plotting GUI
@@ -66,4 +65,4 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 + Version 2.0.0 is under construction.
 
 # User's Manual
-+ [ Draft Version ](https://drive.google.com/file/d/1BgT10BgzEOjAChAmZ5Hv531AsrG7S05C/view?usp=sharing)
++ [ Draft Version ](https://drive.google.com/file/d/1PEc1GcuB4_f2rhx6fH3yGtdtqUSDetY8/view?usp=sharing)
