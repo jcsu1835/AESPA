@@ -42,7 +42,7 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 
 # Releases
 
-+ Date Released 2025. 3. 15 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1-GBOVUxxOGdV1o340jLvQlsFhe-i-Scr/view?usp=sharing)
++ Date Released 2025. 3. 15 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1oEUc2i1lPlEtGGlEoDbJWkPaO7_RHUAK/view?usp=sharing)
   + Fix a few bugs
   + Showing fancy overriden inputs
   + Enhancing plotting GUI
