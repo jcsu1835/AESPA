@@ -1,5 +1,5 @@
 # What is AESPA?
-AESPA is the Advanced Editor for SPACE Problem Analysis. It is developed based on C++ language and Qt framework. You can watch the awesome movies of AESPA demos at the following Youtube channels:
+AESPA is the Advanced Editor for SPACE Problem Analysis. It is developed based on C++ language and Qt framework. You can watch the awesome movies of AESPA demos at the following YouTube channels:
 
 [![alt text](images/YouTube_Logo.PNG)](https://www.youtube.com/@h.b.5636)
 
