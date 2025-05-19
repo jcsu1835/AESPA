@@ -45,7 +45,7 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 
 # Releases
 
-+ Date Released 2025. 5. 19 Download [ Version 1.0.4 ](https://drive.google.com/file/d/1m-h0OCYFw4ZMU-NqsCnjAGgjo6yb3GCz/view?usp=sharing)
++ Date Released 2025. 5. 19 Download [ Latest Version ](https://drive.google.com/file/d/1m-h0OCYFw4ZMU-NqsCnjAGgjo6yb3GCz/view?usp=sharing)
   + Fix a few bugs
   + Showing fancy overriden inputs
   + Enhancing plotting GUI
@@ -53,18 +53,18 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
   + Implementing the multi-processing of SPACE calculations in a batch run mode
   + Add convergence checking function in online or offline modes.
   + Enhancing one case run window to use real-time plots
-+ Date Released 2024. 12. 08 Download [ Version 1.0.3 ](https://drive.google.com/file/d/1zSuLqO688KfUx7qPOYmOAsUkbvmb9wmz/view?usp=sharing)
++ Date Released 2024. 12. 08
   + Enhanced function to manage plot inputs
   + Function to click the plot hot spot. Click the "PLOT" on the PLOT-XX-YYY
   + Fixed number of bugs and errors
   + Function to organize check sums
   + Function to organize the component tree using a output file
-+ Date Released 2024. 11. 05 Download [ Version 1.0.2 ](https://drive.google.com/file/d/1DubzX8gTwICGdiLBE2SXdiEpHqJVotAY/view?usp=sharing)
++ Date Released 2024. 11. 05
   + Heat structure node diagram
   + Adding a plot variable input on the node diagram
-+ Date Released 2024. 11. 05 Download [ Version 1.0.1 ](https://drive.google.com/file/d/1pTk2VpUOksSNifmW_nVthZHaK9Pe9U16/view?usp=sharing)
++ Date Released 2024. 11. 05
   + Batch job function added
-+ Date Released 2024. 11. 02 Download [ Version 1.0.0 ](https://drive.google.com/file/d/1Rt_rMqpUtkScqccwkQXaX7Sc8qnSlHHx/view?usp=sharing)
++ Date Released 2024. 11. 02
 + Version 2.0.0 is under construction.
 
 # User's Manual
