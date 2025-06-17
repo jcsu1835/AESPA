@@ -45,7 +45,7 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 
 # Releases
 
-+ Date Released 2025. 6. 15 Download [ Latest Version ](https://drive.google.com/file/d/1V1VGXYMV-zoioUzMf_gKAiR3UXmfVDsq/view?usp=sharing)
++ Date Released 2025. 6. 17 Download [ Latest Version ](https://drive.google.com/file/d/1V1VGXYMV-zoioUzMf_gKAiR3UXmfVDsq/view?usp=sharing)
   + Fix drag and drop functionality
   + Fix hangul character bugs in descriptions
   + Showing fancy overriden inputs
