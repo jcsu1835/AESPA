@@ -39,9 +39,9 @@ To develop the SPACE basedeck of some problem, users may execute SPACE  many tim
 ## Batch Run
 Typically, SPACE calculations consist of multiple steps. The first step will be a steady-state calculation to produce restart files. The next step will be
 a transient calculation or another steady-state calculation. That is, the calculations are connected each other. AESPA can perform these multiple calculations
-automatically. Users just prepare the right inputs for AESPA in the batch run mode. While calculating, users can watch the convergences of all variables in the Plot data files in real time. The following image shows an example:
+automatically. Users just prepare the right inputs for AESPA in the batch run mode. While calculating, users can look over the convergences of all the variables in the Plot data files. The following image shows an example:
 
-![alt text](images/batchRunWithConvergenceCheck.png)
+![alt text](https://github.com/jcsu1835/AESPA/blob/43889fd73b562239eee1150ce53aabc9fbb1a9b9/images/convergence_report.PNG)
 
 # Releases
 
