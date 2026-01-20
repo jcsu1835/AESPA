@@ -44,7 +44,8 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 ![alt text](https://github.com/jcsu1835/AESPA/blob/43889fd73b562239eee1150ce53aabc9fbb1a9b9/images/convergence_report.PNG)
 
 # Releases
-
++ Date Released 2026. 1. 19 Download [ Latest Version ](https://drive.google.com/file/d/1DTUYOACMXaKIiuY16hXhKv7o1wRXe-D3/view?usp=drive_link)
+  + Fix display resolution problem
 + Date Released 2025. 7. 23 Download [ Latest Version ](https://drive.google.com/file/d/15yIW4ay0Z5hNmXIW30mpf9_rPvVIlJ-E/view?usp=sharing)
   + Fix drag and drop functionality
   + Fix hangul character bugs in descriptions
