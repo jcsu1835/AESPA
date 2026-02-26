@@ -47,6 +47,8 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 + Date Released 2026. 2. 26 Download [Latest Version ](https://drive.google.com/file/d/1c1YyQjNMRKhibeZL9COf-EFG8iBlz_jQ/view?usp=sharing)
   + Fix display resolution problem
   + Fix cursor position bug after saving the file
+  + On-click manual in English
+  + Fix bugs in comparing files
 + Date Released 2025. 7. 23
   + Fix drag and drop functionality
   + Fix hangul character bugs in descriptions
