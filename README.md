@@ -44,8 +44,9 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 ![alt text](https://github.com/jcsu1835/AESPA/blob/43889fd73b562239eee1150ce53aabc9fbb1a9b9/images/convergence_report.PNG)
 
 # Releases
-+ Date Released 2026. 3. 15 Download [Latest Version ](https://drive.google.com/file/d/1Vx1q-U006WEPyZfINl4yEksIGFg9WB00/view?usp=sharing)
++ Date Released 2026. 3. 18 Download [Latest Version ](https://drive.google.com/file/d/18UDW5yvdeQOVJ1Cec6bqMKf103aorFcB/view?usp=sharing)
   + Enhance the file load and save features
+  + Upgrading drag-n-drop the file
   + Fix a few bugs
 + Date Released 2026. 3. 1
   + Fix display resolution problem
