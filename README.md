@@ -48,6 +48,10 @@ SPACE input is too complicated to see the overall structures. It has many faces 
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/4d3e34ce8943339e76f796deebea9d31d622b0c7/images/Edwards_Pipe1.png)
 
+For simple nuclear power plant :
+
+![alt text](https://github.com/jcsu1835/AESPA/blob/c4f4a6f572742693c6afbe14942fca84d2109307/images/WH_Plant_UCRW_Analysis.png)
+
 # Releases
 + Date Released 2026. 5. 30 Download [Latest Version ](https://drive.google.com/file/d/1avdguFQnYrRrE25b6_1547DRpp1okpGP/view?usp=sharing)
   + Add nodal creation from the SPACE text input file
