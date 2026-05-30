@@ -43,8 +43,15 @@ automatically. Users just prepare the right inputs for AESPA in the batch run mo
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/43889fd73b562239eee1150ce53aabc9fbb1a9b9/images/convergence_report.PNG)
 
+## SPACE Nodal Creation from the text input
+SPACE input is too complicated to see the overall structures. It has many faces to connect the components such as CELL, BRCH, PIPE, etc. It is really hard to draw the nodal diagram by hands. From now on, AESPA provides the automatic nodal creation from your text SPACE input file. The nodal creation happens in the very short time. You don't need to put the useless efforts to draw the nodal diagram correctly. The example nodal diagram of Edward's pipe is shown below:
+
+
 # Releases
-+ Date Released 2026. 3. 12 Download [Latest Version ](https://drive.google.com/file/d/1C-idALZzG46gsXH7gF84ZIv3O9yboHtA/view?usp=sharing)
++ Date Released 2026. 5. 30 Download [Latest Version ](https://drive.google.com/file/d/1avdguFQnYrRrE25b6_1547DRpp1okpGP/view?usp=sharing)
+  + Add nodal creation from the SPACE text input file
+  + Fix a few bugs
++ Date Released 2026. 3. 12
   + Enhance the file load and save features
   + Upgrading drag-n-drop the file
   + Fix a few bugs
