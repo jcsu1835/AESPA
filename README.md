@@ -51,9 +51,9 @@ SPACE input is too complicated to see the overall structures. It has many faces 
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/4d3e34ce8943339e76f796deebea9d31d622b0c7/images/Edwards_Pipe1.png)
 
-For simple nuclear power plant :
+For U-tube model :
 
-![alt text](https://github.com/jcsu1835/AESPA/blob/c4f4a6f572742693c6afbe14942fca84d2109307/images/WH_Plant_UCRW_Analysis.png)
+![alt text](https://github.com/jcsu1835/AESPA/blob/7a528191bd6c655f82ca2ef4a852f64cdc5bc6f7/images/sample_input_for_manual.png)
 
 # Releases
 + Date Released 2026. 6. 3 Download [Latest Version ](https://drive.google.com/file/d/1Y5nbYCtDRPpRrrMcmy9ZoyDUrqIfllec/view?usp=sharing)
