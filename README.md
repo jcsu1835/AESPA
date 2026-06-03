@@ -53,7 +53,7 @@ For simple nuclear power plant :
 ![alt text](https://github.com/jcsu1835/AESPA/blob/c4f4a6f572742693c6afbe14942fca84d2109307/images/WH_Plant_UCRW_Analysis.png)
 
 # Releases
-+ Date Released 2026. 5. 30 Download [Latest Version ](https://drive.google.com/file/d/1avdguFQnYrRrE25b6_1547DRpp1okpGP/view?usp=sharing)
++ Date Released 2026. 6. 3 Download [Latest Version ](https://drive.google.com/file/d/1Y5nbYCtDRPpRrrMcmy9ZoyDUrqIfllec/view?usp=sharing)
   + Add nodal creation from the SPACE text input file
   + Fix a few bugs
 + Date Released 2026. 3. 12
