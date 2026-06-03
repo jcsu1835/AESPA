@@ -55,6 +55,8 @@ For U-tube model :
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/7a528191bd6c655f82ca2ef4a852f64cdc5bc6f7/images/sample_input_for_manual.png)
 
+![alt text](https://github.com/jcsu1835/AESPA/blob/be288bce63dc413319cc64d24d8ec03e408701a0/images/sample_input_for_manual_1000.png)
+
 # Releases
 + Date Released 2026. 6. 3 Download [Latest Version ](https://drive.google.com/file/d/1Y5nbYCtDRPpRrrMcmy9ZoyDUrqIfllec/view?usp=sharing)
   + Add nodal creation from the SPACE text input file
