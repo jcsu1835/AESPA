@@ -3,6 +3,9 @@ AESPA is the Advanced Editor for SPACE Problem Analysis. It is developed based o
 
 [![alt text](images/YouTube_Logo.PNG)](https://www.youtube.com/@h.b.5636)
 
+## User's Manual
++ [ Latest Version ](https://drive.google.com/file/d/19DZ_719heupW4gkG9AIr0ZX_ZKIvTl8s/view?usp=sharing)
+
 The AESPA supports many helpful functions to assist the users of SPACE code as follows:
 
 ## Text edit
@@ -90,6 +93,3 @@ For simple nuclear power plant :
   + Batch job function added
 + Date Released 2024. 11. 02
 + Version 2.0.0 is under construction.
-
-# User's Manual
-+ [ Draft Version ](https://drive.google.com/file/d/1PEc1GcuB4_f2rhx6fH3yGtdtqUSDetY8/view?usp=sharing)
