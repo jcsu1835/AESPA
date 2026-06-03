@@ -6,6 +6,8 @@ AESPA is the Advanced Editor for SPACE Problem Analysis. It is developed based o
 ## User's Manual
 + [ Latest Version ](https://drive.google.com/file/d/19DZ_719heupW4gkG9AIr0ZX_ZKIvTl8s/view?usp=sharing)
 
+## Download latest version (https://drive.google.com/file/d/1Y5nbYCtDRPpRrrMcmy9ZoyDUrqIfllec/view?usp=sharing)
+
 The AESPA supports many helpful functions to assist the users of SPACE code as follows:
 
 ## Text edit
@@ -52,8 +54,6 @@ SPACE input is too complicated to see the overall structures. It has many faces 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/4d3e34ce8943339e76f796deebea9d31d622b0c7/images/Edwards_Pipe1.png)
 
 For U-tube model :
-
-![alt text](https://github.com/jcsu1835/AESPA/blob/7a528191bd6c655f82ca2ef4a852f64cdc5bc6f7/images/sample_input_for_manual.png)
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/be288bce63dc413319cc64d24d8ec03e408701a0/images/sample_input_for_manual_1000.png)
 
