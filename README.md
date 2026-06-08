@@ -17,6 +17,8 @@ AESPA can be used as a typical text editor. It means that AESPA supports many fu
 ## SPACE input categorization
 If you open and load a SPACE input file without a syntax error, AESPA detects SPACE components automatically. And they are displayed in the component tree. Users can navigate the input by selecting a tree item.
 
+![alt text](https://github.com/jcsu1835/AESPA/blob/9cb48fe3ed3ae9b6afe5a66082f0e9b0dcff47e7/images/componentTree.PNG)
+
 ## Automatic generation of various diagram
 AESPA can generate the various component diagram such as BRCH, CELL, PIPE, FACE, MFACE, TFBC, PUMP, VALV, SEPR, HSTS, PLOT, TABL, TRIP, CTRL, etc. The following image shows the diagram of C750 PIPE and connected components. You can navigate the corresponding input line by clicking a node you want to know the detail input values.
 
