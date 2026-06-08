@@ -15,7 +15,7 @@ The AESPA supports many helpful functions to assist the users of SPACE code as f
 AESPA can be used as a typical text editor. It means that AESPA supports many functions like normal text editors.
 
 ## SPACE input categorization
-If you open and load a SPACE input file without a syntax error, AESPA detects SPACE components automatically. And they are displayed in the component tree. Users can navigate the input by selecting a tree item.
+If you open and load a SPACE input file without a syntax error, AESPA detects SPACE components automatically. And they are displayed in the component tree. Users can navigate the input by clicking a tree item or moving selection by Up-and-Down key. The component tree will show the final input not the overriden inputs. The example tree is shown below:
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/9cb48fe3ed3ae9b6afe5a66082f0e9b0dcff47e7/images/componentTree.PNG)
 
