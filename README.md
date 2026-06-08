@@ -19,6 +19,11 @@ If you open and load a SPACE input file without a syntax error, AESPA detects SP
 
 ![alt text](https://github.com/jcsu1835/AESPA/blob/9cb48fe3ed3ae9b6afe5a66082f0e9b0dcff47e7/images/componentTree.PNG)
 
+## Input Syntax Checker
+You can check the syntax of the SPACE input before and after the code execution. If your input had any syntax errors like no existence of component, AESPA can trace it and show it below the related input line. The following image is the example:
+
+![alt text](https://github.com/jcsu1835/AESPA/blob/0904d6c6cd4523e457a413ce58abc47c3330f486/images/spellChecker.PNG)
+
 ## Automatic generation of various diagram
 AESPA can generate the various component diagram such as BRCH, CELL, PIPE, FACE, MFACE, TFBC, PUMP, VALV, SEPR, HSTS, PLOT, TABL, TRIP, CTRL, etc. The following image shows the diagram of C750 PIPE and connected components. You can navigate the corresponding input line by clicking a node you want to know the detail input values.
 
