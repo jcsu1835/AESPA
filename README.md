@@ -77,12 +77,12 @@ When you creates input of SPACE code, you should use the correct elevations of c
 # Release Notes
 + Date Released 2026. 8. 02
   + Adding function to check elevation consistencies
-  + Fixing some of bugs
+  + Fixing some bugs
 + Date Released 2026. 7. 26
   + Adding color indicator on the heat map
   + Adding function to adjust starting and finishing times
   + Adding function to locate the nodes wieh min and max values
-  + Fixing some of bugs
+  + Fixing some bugs
   + Improving UI
 + Date Released 2026. 7. 11
   + Adding more functionals of heat map
